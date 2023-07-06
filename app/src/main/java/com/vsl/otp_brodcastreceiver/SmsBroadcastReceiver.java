@@ -12,7 +12,7 @@ import com.google.android.gms.common.api.Status;
 public class SmsBroadcastReceiver extends BroadcastReceiver {
 
 //    private static EditText editText_otp;
-    public SmsBroadcastReceiverListener smsBroadcastSmsListener;
+//    public SmsBroadcastReceiverListener smsBroadcastSmsListener;
 
 //    public static void setEditText_otp(EditText editText_otp) {
 //        OTPReceiver.editText_otp = editText_otp;
